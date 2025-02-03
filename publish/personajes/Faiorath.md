@@ -1,9 +1,9 @@
 ---
 title: "Faiorath"
 image:
- url: "/attachments/faiorath.png"
- type: "portrait"
- alt: "Retrato de Faiorath Caledhros"
+  url: "/attachments/faiorath.png"
+  type: "portrait"
+  alt: "Retrato de Faiorath Caledhros"
 ---
 
 ## Descripción

@@ -1,9 +1,9 @@
 ---
 title: "Eryndor"
 status: "Herido"
- url: "/attachments/eryndor.png"
- type: "portrait"
- alt: "Retrato de Eryndor Flamehart"
+  url: "/attachments/eryndor.png"
+  type: "portrait"
+  alt: "Retrato de Eryndor Flamehart"
 ---
 
 ## Descripción

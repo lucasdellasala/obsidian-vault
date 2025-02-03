@@ -1,9 +1,9 @@
 ---
 title: "Nestorius"
 image:
- url: "/attachments/nestorius.png"
- type: "portrait"
- alt: "Retrato de Nestorius Guacharius"
+  url: "/attachments/nestorius.png"
+  type: "portrait"
+  alt: "Retrato de Nestorius Guacharius"
 ---
 
 ## Descripción
