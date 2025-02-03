@@ -4,6 +4,8 @@ image:
   url: "/attachments/faiorath.png"
   type: "portrait"
   alt: "Retrato de Faiorath Caledhros"
+ogImage:
+	url: "/attachments/faiorath.png"
 ---
 
 ## Descripción

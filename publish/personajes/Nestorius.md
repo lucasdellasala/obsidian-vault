@@ -4,6 +4,8 @@ image:
   url: "/attachments/nestorius.png"
   type: "portrait"
   alt: "Retrato de Nestorius Guacharius"
+ogImage:
+	url: "/attachments/nestorius.png"
 ---
 
 ## Descripción

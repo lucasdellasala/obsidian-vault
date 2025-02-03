@@ -5,6 +5,8 @@ image:
   url: "/attachments/eryndor.png"
   type: "portrait"
   alt: "Retrato de Eryndor Flamehart"
+ogImage:
+	url: "/attachments/eryndor.png"
 ---
 
 ## Descripción
