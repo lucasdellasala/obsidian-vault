@@ -12,7 +12,7 @@ El grupo comenzó su aventura en el [[pueblo]] cercano al [[bosque]]. Allí, se 
 - **[[Eryndor]]:** Paladín con una conexión profunda con su fe.
 - **[[Nestorius]]:** Clérigo devoto, perdido en combate tras un infarto trágico.
 - **[[Faiorath]]:** Bardo creativo, cuyas payadas desafían a las sombras.
-- **[[Lux (muerto)]]:** Mago humano, también caído en combate.
+- **[[Lux]]:** Mago humano, también caído en combate.
 - **[[Kan]]:** Druida con una forma animal de lobo, feroz y determinado.
 - **[[Aegis]]:** Explorador elfo del bosque, clave en el enfrentamiento contra el maestro encapuchado.
 
@@ -27,7 +27,7 @@ El grupo comenzó su aventura en el [[pueblo]] cercano al [[bosque]]. Allí, se 
    El grupo descubrió un gran [[árbol antiguo]] que parecía ser el corazón del bosque, corrompido por el [[maestro encapuchado]].
 
 4. **Caída de aliados:**
-   [[Lux (muerto)]] fue asesinado por una sombra, y más tarde, [[Nestorius]] sucumbió a un infarto seguido por un ataque fatal.
+   [[Lux]] fue asesinado por una sombra, y más tarde, [[Nestorius]] sucumbió a un infarto seguido por un ataque fatal.
 
 5. **Derrota del maestro encapuchado:**
    [[Kan]] dio el golpe final, devorando los restos del maestro. Las sombras restantes quedaron debilitadas, pero el peligro persiste.

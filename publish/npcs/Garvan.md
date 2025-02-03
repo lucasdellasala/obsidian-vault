@@ -11,5 +11,5 @@ Es un humano de mediana edad, tiene una complexión robusta y una mirada amigabl
 - Vive al otro lado del río, en una cabaña con su esposa y sus dos hijos.
 
 ## Rol en la aventura
-- Fue contratado por [[Faiorath]] para atrapar a uno de los halflings ladrones secuaces de [[Kellin Duskwhisper (muerto)]].
-- Además fue un personaje clave en ayudar al equipo a saber dónde quedaba la guardida de [[Kellin Duskwhisper (muerto)]] y dio el importante dato de que esta tenía una salida trasera, aunque llena de trampas.
+- Fue contratado por [[Faiorath]] para atrapar a uno de los halflings ladrones secuaces de [[Kellin Duskwhisper]].
+- Además fue un personaje clave en ayudar al equipo a saber dónde quedaba la guardida de [[Kellin Duskwhisper]] y dio el importante dato de que esta tenía una salida trasera, aunque llena de trampas.
