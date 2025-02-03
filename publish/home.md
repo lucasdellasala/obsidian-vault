@@ -41,4 +41,4 @@ El grupo comenzó su aventura en el [[pueblo]] cercano al [[bosque]]. Allí, se 
 El grupo debe decidir:
 1. Regresar al [[pueblo]] para reagruparse.
 2. Explorar más el [[árbol antiguo]].
-3. Prepararse para enfrentarse al [[Oscuro]], quien parece ser el verdadero antagonista detrás de los eventos.
+3. Prepararse para enfrentarse al [[El Oscuro]], quien parece ser el verdadero antagonista detrás de los eventos.
