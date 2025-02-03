@@ -1,8 +1,7 @@
 ---
 title: "Lux"
+status: "Muerto"
 ---
-
-# Lux (muerto)
 
 ## Descripción
 Lux fue un mago humano con gran curiosidad y potencial, pero su falta de preparación lo llevó a un destino trágico. En combate, utilizaba su inteligencia para analizar las situaciones, aunque sus habilidades mágicas aún estaban en desarrollo.

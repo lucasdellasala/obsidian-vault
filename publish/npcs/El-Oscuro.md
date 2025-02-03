@@ -2,8 +2,6 @@
 title: "El Oscuro"
 ---
 
-# El Oscuro
-
 ## Descripción
 El Oscuro es una figura misteriosa que parece estar detrás de los eventos en el [[bosque]]. Su influencia corrompe el corazón del bosque y mantiene el poder sobre las sombras.
 

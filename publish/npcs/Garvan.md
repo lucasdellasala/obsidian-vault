@@ -2,8 +2,6 @@
 title: "Garvan"
 ---
 
-# Garvan
-
 ## Descripción
 
 Es un humano de mediana edad, tiene una complexión robusta y una mirada amigable. Su piel curtida por el sol y las manos callosas delatan años de trabajo físico. Tiene cabello castaño despeinado y una barba descuidada que no parece haber visto un peine en semanas. Lleva ropas sencillas, algo raídas, y un cinturón con herramientas que indican que trabaja en más de una tarea dentro del mercado.

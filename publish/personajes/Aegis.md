@@ -2,8 +2,6 @@
 title: "Aegis"
 ---
 
-# Aegis
-
 ## Descripción
 Aegis es un explorador elfo del [[bosque]], hábil con el arco y profundamente conectado con la naturaleza. Su experiencia lo convierte en un [[aliados|aliado]] invaluable para navegar terrenos hostiles.
 

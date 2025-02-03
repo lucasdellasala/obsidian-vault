@@ -1,8 +1,7 @@
 ---
 title: "Eryndor"
+status: "Herido"
 ---
-
-# Eryndor (estabilizado pero gravemente herido)
 
 ## Descripción
 Eryndor Flamehart es un paladín humano cuya fe y fuerza son el pilar del grupo. Su resistencia y determinación lo convierten en un líder natural en situaciones difíciles.

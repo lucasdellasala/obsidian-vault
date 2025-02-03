@@ -1,8 +1,7 @@
 ---
 title: "Maestro encapuchado"
+status: "Muerto"
 ---
-
-# Maestro encapuchado (muerto)
 
 ## Descripción
 El maestro encapuchado era un sirviente del [[Oscuro]], encargado de corromper el [[bosque]] y extender la influencia de las sombras.

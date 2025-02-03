@@ -1,8 +1,7 @@
 ---
 title: "Kellin Duskwhisper"
+status: Muerto
 ---
-
-# Kellin Duskwhisper (muerto)
 
 ## Descripción
 

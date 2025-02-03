@@ -2,8 +2,6 @@
 title: "Faiorath"
 ---
 
-# Faiorath
-
 ## Descripción
 Faiorath Caledhros es un bardo creativo, siempre buscando la forma de inspirar a sus compañeros y desmoralizar a sus enemigos. Su ingenio es tan afilado como sus habilidades con la cerbatana.
 
