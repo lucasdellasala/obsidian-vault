@@ -7,7 +7,7 @@ El Oscuro es una figura misteriosa que parece estar detrás de los eventos en el
 
 ## Rol en la trama
 - Aún no se ha enfrentado directamente.
-- Referido por el [[maestro encapuchado]] como el verdadero antagonista.
+- Referido por el [[Maestro encapuchado]] como el verdadero antagonista.
 
 ## Alias
 - "El Oscuro"

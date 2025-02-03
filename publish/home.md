@@ -21,10 +21,10 @@ El grupo comenzó su aventura en el [[pueblo]] cercano al [[bosque]]. Allí, se 
    El grupo se unió en la taberna y decidió investigar el [[bosque]] tras oír rumores de sombras.
 
 2. **La primera cueva:**
-   Allí, descubrieron al [[maestro encapuchado]] y las sombras deformes. [[Eryndor]] casi pierde la vida en combate, y [[Nestorius]] lo estabilizó.
+   Allí, descubrieron al [[Maestro encapuchado]] y las sombras deformes. [[Eryndor]] casi pierde la vida en combate, y [[Nestorius]] lo estabilizó.
 
 3. **El corazón del bosque:**
-   El grupo descubrió un gran [[árbol antiguo]] que parecía ser el corazón del bosque, corrompido por el [[maestro encapuchado]].
+   El grupo descubrió un gran [[árbol antiguo]] que parecía ser el corazón del bosque, corrompido por el [[Maestro encapuchado]].
 
 4. **Caída de aliados:**
    [[Lux]] fue asesinado por una sombra.
