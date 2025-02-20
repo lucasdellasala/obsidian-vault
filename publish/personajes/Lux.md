@@ -1,6 +1,12 @@
 ---
 title: "Lux"
 status: "Muerto"
+image:
+  url: "/attachments/lux.png"
+  type: "portrait"
+  alt: "Retrato de Lux"
+ogImage:
+  url: "/attachments/lux.png"
 ---
 
 ## Descripción
