@@ -1,5 +1,11 @@
 ---
 title: "Garvan"
+image:
+  url: "/attachments/garvan.png"
+  type: "portrait"
+  alt: "Retrato de Garvan"
+ogImage:
+  url: "/attachments/garvan.png"
 ---
 
 ## Descripción
