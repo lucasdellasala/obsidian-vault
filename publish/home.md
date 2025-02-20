@@ -36,9 +36,5 @@ El grupo comenzó su aventura en el [[pueblo]] cercano al [[bosque]]. Allí, se 
 - **[[pueblo]]:** Punto de partida del grupo.
 - **[[bosque]]:** Una región misteriosa y sombría, con peligros constantes.
 - **[[árbol antiguo]]:** Posible fuente de vida del bosque, ahora parcialmente corrupto.
+- **[[Cabaña del bosque]]:** punto de descanso del grupo y antigüa base de operaciones de la misión de clérigos enanos.
 
-## Próxima Sesión
-El grupo debe decidir:
-1. Regresar al [[pueblo]] para reagruparse.
-2. Explorar más el [[árbol antiguo]].
-3. Prepararse para enfrentarse al [[El Oscuro]], quien parece ser el verdadero antagonista detrás de los eventos.
