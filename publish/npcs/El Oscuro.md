@@ -1,5 +1,11 @@
 ---
 title: "El Oscuro"
+image:
+  url: "/attachments/eloscuro.png"
+  type: "portrait"
+  alt: "Retrato de El Oscuro"
+ogImage:
+  url: "/attachments/eloscuro.png"
 ---
 
 ## Descripción
