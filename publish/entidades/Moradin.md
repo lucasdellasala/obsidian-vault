@@ -1,11 +1,11 @@
 ---
 title: "Moradin"
 image:
-  url: "https://static.wikia.nocookie.net/forgottenrealms/images/4/46/Moradin5e.png"
+  url: "/attachments/moradin.png"
   type: "portrait"
   alt: "Retrato de Moradin"
 ogImage:
-  url: "https://static.wikia.nocookie.net/forgottenrealms/images/4/46/Moradin5e.png"
+  url: "/attachments/moradin.png"
 ---
 
 ## **Descripción**
