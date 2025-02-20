@@ -1,11 +1,11 @@
 ---
 title: "Moradin"
 image:
-  url: "https://static.wikia.nocookie.net/forgottenrealms/images/4/46/Moradin5e.png/revision/latest?cb=20210811195347"
+  url: "https://static.wikia.nocookie.net/forgottenrealms/images/4/46/Moradin5e.png"
   type: "portrait"
   alt: "Retrato de Moradin"
 ogImage:
-  url: "https://static.wikia.nocookie.net/forgottenrealms/images/4/46/Moradin5e.png/revision/latest?cb=20210811195347"
+  url: "https://static.wikia.nocookie.net/forgottenrealms/images/4/46/Moradin5e.png"
 ---
 
 ## **Descripción**
@@ -23,5 +23,5 @@ Moradin es el dios de la forja, la artesanía y la perseverancia. Es reverenciad
 - "Padre de la Forja"
 - "Guardián del Yunque Eterno"
 
-![Simbolo de Moradin](https://static.wikia.nocookie.net/forgottenrealms/images/9/90/Moradin_symbol.jpg/revision/latest?cb=20070301095058)
+![Simbolo de Moradin](https://static.wikia.nocookie.net/forgottenrealms/images/9/90/Moradin_symbol.jpg)
 _El símbolo sagrado de Moradin durante la Era de Upheaval._
