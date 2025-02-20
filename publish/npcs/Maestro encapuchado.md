@@ -1,6 +1,12 @@
 ---
 title: "Maestro encapuchado"
 status: "Muerto"
+image:
+  url: "/attachments/maestroencapuchado.png"
+  type: "portrait"
+  alt: "Retrato de Maestro Encapuchado"
+ogImage:
+  url: "/attachments/maestroencapuchado.png"
 ---
 
 ## Descripción
