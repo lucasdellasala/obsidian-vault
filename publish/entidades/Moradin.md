@@ -14,7 +14,7 @@ Moradin es el dios de la forja, la artesanía y la perseverancia. Es reverenciad
 
 ## **Rol en la aventura**
 
-- Es la deidad venerada por **Nestorius**, quien encontraba en su fe la fuerza para seguir adelante.
+- Es la deidad venerada por **[[Nestorius]]**, quien encontraba en su fe la fuerza para seguir adelante.
 - Es también la deidad de **[[Thrain Martillodorado]]**.
 
 ## **Alias**

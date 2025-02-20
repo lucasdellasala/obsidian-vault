@@ -1,6 +1,5 @@
 ---
 title: "Eryndor"
-status: "Herido"
 image:
   url: "/attachments/eryndor.png"
   type: "portrait"
@@ -14,7 +13,5 @@ Eryndor Flamehart es un paladín humano cuya fe y fuerza son el pilar del grupo.
 
 ## Rol en la aventura
 - Casi muere en combate varias veces, pero se mantuvo como una figura clave en las decisiones del [[grupo]].
-- Actualmente estabilizado, pero inconsciente tras el último enfrentamiento.
-
-## Alias
-- "Paladín Eryndor"
+- Cayó inconsciente en el enfrentamiento con el **[[Maestro encapuchado]]** y las sombras.
+- Tomó la iniciativa para salvar a **[[Thrain Martillodorado]]** de los lobos.

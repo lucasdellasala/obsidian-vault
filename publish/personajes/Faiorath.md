@@ -14,6 +14,4 @@ Faiorath Caledhros es un bardo creativo, siempre buscando la forma de inspirar a
 ## Rol en la aventura
 - Estabilizó a [[Eryndor]] durante una batalla crucial.
 - Inspiró al [[grupo]] con una payada desafiante contra las sombras.
-
-## Alias
-- "Bardo Faiorath"
+- Desconfió de las intenciones de **[[Thrain Martillodorado]]**.

@@ -1,5 +1,6 @@
 ---
 title: "Nestorius"
+status: "Muerto"
 image:
   url: "/attachments/nestorius.png"
   type: "portrait"
@@ -9,10 +10,8 @@ ogImage:
 ---
 
 ## Descripción
-Nestorius Guacharius fue un clérigo humano, devoto y protector. Su fe era su guía, y su maza representaba su voluntad de defender a sus compañeros. 
+Nestorius Guacharius fue un clérigo humano, devoto de **[[Moradin]]** y protector. Su fe era su guía, y su maza representaba su voluntad de defender a sus compañeros. 
 
 ## Rol en la aventura
 - Estabilizó a Eryndor durante una situación crítica.
-
-## Alias
-- "Clérigo Nestorius"
+- Se sacrificó por el grupo enfrentándose solo a 3 devoradores.
