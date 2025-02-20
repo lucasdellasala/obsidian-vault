@@ -1,11 +1,17 @@
 ---
 title: "Kellin Duskwhisper"
 status: Muerto
+image:
+  url: "/attachments/kellin.png"
+  type: "portrait"
+  alt: "Retrato de Kellin"
+ogImage:
+  url: "/attachments/kellin.png"
 ---
 
 ## Descripción
 
-Es un ladrón halfling muy inteligente, retirado y obsesionado con artefactos. Tiene una guarida en una cueva al pie de la colina del pueblo.
+  Es un ladrón halfling muy inteligente, retirado y obsesionado con artefactos. Tiene una guarida en una cueva al pie de la colina del pueblo.
 
 Aparentemente una de sus actividades es el contrabando de mercancías.
 
